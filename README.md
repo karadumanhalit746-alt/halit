@@ -1,0 +1,2 @@
+# halit
+indikatör
